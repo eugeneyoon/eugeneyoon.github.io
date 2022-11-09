@@ -149,16 +149,16 @@ footer{
   }
 
   nav a{
-    padding: 25.2px 36px;
+    padding: 48px 36px;
   }
 
   .listContainer{
-    font-size: 36px;
+    font-size: 30px;
   }
 
   .maintext p{
     font-size: 36px;
-    width: 600px;
+    width: 700px;
   }
 
   .maintext h3{
@@ -166,11 +166,11 @@ footer{
   }
 
   footer{
-    font-size: 36px;
+    font-size: 30px;
     position: fixed;
     width: 100%;
     bottom: 0;
-    padding: 43.2px 0px;
+    padding: 48px 0px;
     text-align: center;
   }
 
