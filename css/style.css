@@ -498,6 +498,40 @@ footer{
 
 @media screen and (max-width: 550px) {
 
+  .listContainer{
+    font-size: 20px;
+    float: left;
+    display: flex;
+    flex: 1 0 0;
+  }
+
+  .maintext p{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 120px;
+    width: 480px;
+    line-height: 175%;
+  }
+
+  .maintext h3{
+    font-size: 20px;
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 120px;
+  }
+
+  footer{
+    font-size: 20px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    padding: 24px 0px;
+    text-align: center;
+  }
+
 /*
   .frontimages img{
     width: 100%;
