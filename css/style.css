@@ -144,34 +144,30 @@ footer{
 @media only screen and (max-device-width: 640px) {
 
   .listContainer img{
-    width: 32.4px;
-    height: 32.4px;
+    width: 28.8px;
+    height: 28.8px;
   }
 
   nav a{
-    padding: 48px 36px;
+    padding: 48px 32px;
   }
 
   .listContainer{
-    font-size: 30px;
+    font-size: 32px;
   }
 
   .maintext p{
-    font-size: 36px;
-    width: 800px;
+    font-size: 32px;
+    width: 720px;
   }
 
   .maintext h3{
-    font-size: 36px;
+    font-size: 32px;
   }
 
   footer{
-    font-size: 30px;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
+    font-size: 32px;
     padding: 48px 0px;
-    text-align: center;
   }
 
 }
