@@ -391,7 +391,7 @@ footer{
   margin: auto;
 } */
 
-@media screen and (min-width: 1200px){
+/* @media screen and (min-width: 1200px){ */
   /* #whichpage{
     flex-direction: row;
   }
@@ -404,7 +404,7 @@ footer{
 
 }
 
-@media screen and (max-width: 1200px) {
+/* @media screen and (max-width: 1200px) { */
 
   /* .frontimages img{
     width: 100%;
@@ -495,8 +495,8 @@ footer{
 }
 
 
-
-@media screen and (max-width: 550px) {
+/*
+@media screen and (max-width: 300px) {
 
   .listContainer{
     font-size: 20px;
@@ -532,7 +532,7 @@ footer{
     text-align: center;
   }
 
-/*
+
   .frontimages img{
     width: 100%;
   }
@@ -540,7 +540,8 @@ footer{
   .hold{
     width: 60vw;
     margin: auto;
-  } */
+  }
 
 
 }
+*/
