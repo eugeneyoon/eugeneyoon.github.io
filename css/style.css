@@ -79,6 +79,11 @@ nav a{
   flex: 1 0 0;
 }
 
+.listContainer img{
+  width: 18px;
+  height: 18px;
+}
+
 main{
   display: flex;
   flex-direction: row;
@@ -138,37 +143,34 @@ footer{
 
 @media only screen and (max-device-width: 640px) {
 
+  .listContainer img{
+    width: 32.4px;
+    height: 32.4px;
+  }
+
+  nav a{
+    padding: 25.2px 36px;
+  }
+
   .listContainer{
-    font-size: 28px;
-    float: left;
-    display: flex;
-    flex: 1 0 0;
+    font-size: 36px;
   }
 
   .maintext p{
-    font-size: 28px;
-    display: flex;
-    justify-content: center;
-    padding-top: 120px;
-    width: 480px;
-    line-height: 175%;
+    font-size: 36px;
+    width: 600px;
   }
 
   .maintext h3{
-    font-size: 28px;
-    font-weight: normal;
-    display: flex;
-    justify-content: center;
-    padding-top: 20px;
-    padding-bottom: 120px;
+    font-size: 36px;
   }
 
   footer{
-    font-size: 28px;
+    font-size: 36px;
     position: fixed;
     width: 100%;
     bottom: 0;
-    padding: 24px 0px;
+    padding: 43.2px 0px;
     text-align: center;
   }
 
